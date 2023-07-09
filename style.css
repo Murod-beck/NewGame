@@ -1,0 +1,14 @@
+body {
+  background-image: linear-gradient(
+    rgb(63, 122, 97),
+    rgb(71, 71, 242),
+    rgb(191, 20, 177)
+  );
+  background-repeat: no-repeat;
+}
+
+.card {
+  top: 20px;
+  font-style: "./Fonts/Audiowide-Regular.ttf";
+  font-weight: bold;
+}
